@@ -1,0 +1,157 @@
+
+      .SUBSCRIBE-button {
+        background-color: rgb(201, 0, 0);
+        color: white;
+        border: none;
+        height: 36px;
+        width: 105px;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity 0.15s;
+      }  
+    
+      .SUBSCRIBE-button:hover {
+        opacity: .7;
+      }
+    
+      .SUBSCRIBE-button:active {
+        /* background-color: blue; */
+        opacity: .5;
+      }
+    
+      .JOIN-button{
+        background-color: white;
+        border-color: rgb(41,118,211);
+        border-style: solid;
+        border-width: 1px;
+        color: rgb(41,118,211);
+        height: 36px;
+        width: 62px;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: background-color 0.15s, color 0.15s;
+      }
+      
+      .JOIN-button:hover {
+        background-color: rgb(41, 118, 255);
+        color: white;
+      }
+    
+      .JOIN-button:active {
+        opacity: 0.7;
+      }
+    
+      .TWEET-button {
+        background-color: rgb(2, 158, 255);
+        color: white;
+        border: none;
+        height: 36px;
+        width: 70px;
+        border-radius: 18px;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        margin-top: 8px;
+        transition: box-shadow 0.15s;
+      }  
+      
+      .TWEET-button:hover {
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    
+      }
+      
+      .Uber-button{
+        background-color: black;
+        color: white;
+        border: none;
+        height: 36px;
+        width: 120px;
+        cursor: pointer;
+        margin-top: 8px;
+      }
+    
+      .Uber-button:hover {
+        opacity: 0.7;
+      }
+    
+      .Amazon-button {
+        background-color: rgb(255,216,20);
+        color: black;
+        border: none;
+        height: 36px;
+        width: 140px;
+        border-radius: 18px;
+        margin-top: 8px;
+      }
+    
+      .Amazon-button:hover {
+        background-color: yellow;
+      }
+    
+      .GitHub-button {
+        background-color: rgb(46,164,79);
+        color: white;
+        font: bolder;
+        font-size: 15px;
+        height: 38px;
+        width: 80px;
+        border: none;
+        border-radius: 8px;
+        margin-top: 8px;
+      }
+    
+      .GitHub-button:hover {
+        box-shadow: 5px, 5px, 10px rgba(0, 0, 0, 0.15);
+      }
+    
+      .Bootstrap-button {
+        background-color: rgb(121, 82, 179);
+        color: white;
+        height: 36px;
+        width: 100px;
+        border: none;
+        border-radius: 3px;
+        margin-top: 8px;
+        font: 700;
+    
+      }
+    
+      .Bootstrap-Second-button {
+        background-color: white;
+        color: rgb(108,117,125);
+        border-color: rgb(108,117,125);
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 3px;
+        height: 36px;
+        width: 100px;
+        margin-left: 8px;
+        font: bold;
+      }
+    
+      .LinkedIn-button {
+        background-color: rgb(10, 102, 194);
+        color: white;
+        height: 40px;
+        width: 260px;
+        border: none;
+        border-radius: 18px;
+        font-weight: 600;
+        font-size: 17px;
+        margin-top: 8px;
+      }
+      
+      .LinkedIn-Second-button {
+        background-color: white;
+        color: rgb(10, 102, 194);
+        height: 40px;
+        width: 80px;
+        border-color: rgb(10, 102, 194);
+        border-width: 1px;
+        border-radius: 18px;
+        font-weight: 600;
+        font-size: 17px;
+        margin-left: 8px;
+      }
